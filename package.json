@@ -1,0 +1,21 @@
+{
+  "name": "dynmapinfo",
+  "version": "0.0.1",
+  "description": "Uho, good module...",
+  "main": "dynmapinfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Minecraft"
+  ],
+  "author": "ikr7",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ikr7/dynmapinfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikr7/dynmapinfo/issues"
+  }
+}
