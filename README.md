@@ -1,4 +1,3 @@
-
 #dynmapinfo
 Dynmap の情報をいい感じに引っ張ってくるやつです
 
@@ -24,11 +23,12 @@ di.getPlayers(function(err, data){
 });
 ```
 
-メソッド
+メソッド一覧
 * getWorlds
 * getPlayers
 * getMarkers
 * getTime
 * getWeather
 
-引数とか戻り値とかはてきとうにためしてみて
+引数とか戻り値とかはてきとうにためしてみて  
+なにかあったらおしえてね
