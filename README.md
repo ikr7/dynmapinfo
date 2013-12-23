@@ -1,6 +1,8 @@
 #dynmapinfo
 Dynmap の情報をいい感じに引っ張ってくるやつです
 
+[English](https://github.com/ikr7/dynmapinfo/blob/master/README.en.md)
+
 インストール
 ```
 % npm install dynmapinfo
