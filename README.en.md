@@ -1,4 +1,7 @@
 #dynmapinfo
+
+[日本語](https://github.com/ikr7/dynmapinfo/blob/master/README.md)
+
 Asynchronous Dynmap client
 
 Installation
