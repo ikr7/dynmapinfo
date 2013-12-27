@@ -12,7 +12,7 @@ Installation
 Initialization
 ```
 var DynmapInfo = require('dynmapinfo');  
-var di = new DynmapInfo('dynmap.URL:port/path'); //←DynmapのURLをわたしてね "http://"はいらないよ
+var di = new DynmapInfo('dynmap.URL:port/path'); // <= set Dynmap URL(without "http:_/")
 ```
 
 Usage
